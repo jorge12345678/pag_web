@@ -52,7 +52,7 @@ education:
   - area: Mechatronic Engineer
     institution: Pontifical Catholic University of Peru
     date_start: 2012-03-01
-    date_end: 2017-06-31
+    date_end: 2017-06-11
     summary: |
       Thesis on the Design of a docking platform and a miniROV for Unmanned Aquatic Surface Vehicles (USV). Supervised by [Prof Francisco Cuellar](https://pe.linkedin.com/in/francisco-cuellar-a0000541). 
     button:
