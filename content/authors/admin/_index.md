@@ -1,80 +1,67 @@
 ---
 # Display name
-title: 吳健雄
+title: MSc Jorge Ramirez
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jorge 
+last_name: Ramirez
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🦾🤖🦿
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Robotic Application Development Engineer / MSc in Control and Automation Engineering
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Fabricum PUCP
+    url: https://fabricum.pucp.edu.pe/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:jorge.ramirezc@pucp.pe'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://twitter.com/ramirez66955
+  #- icon: brands/github
+  #  url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/jorgeramirezchavez/
+  - icon: brands/orcid
+    url: https://orcid.org/0000-0002-8155-2178
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
+  - area: MSc in Control and Automation Engineering
+    institution: Pontifical Catholic University of Peru
+    date_start: 2019-03-01
     date_end: 2020-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on the design of a neuro-fuzzy controller for automation of fault detection within pipelines using a mobile robot. Supervised by [Prof Francisco Cuellar](https://pe.linkedin.com/in/francisco-cuellar-a0000541). Presented paper at the IEEE ICCAR 2021 conference.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'http://hdl.handle.net/20.500.12404/22728'
+  - area: Mechatronic Engineer
+    institution: Pontifical Catholic University of Peru
+    date_start: 2012-03-01
+    date_end: 2017-06-31
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis on the Design of a docking platform and a miniROV for Unmanned Aquatic Surface Vehicles (USV). Supervised by [Prof Francisco Cuellar](https://pe.linkedin.com/in/francisco-cuellar-a0000541). 
+    button:
+      text: 'Read Thesis'
+      url: 'http://hdl.handle.net/20.500.12404/9931'
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Robotic Application Development Engineer
+    company_name: Fabricum PUCP
+    company_url: 'https://fabricum.pucp.edu.pe/'
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
