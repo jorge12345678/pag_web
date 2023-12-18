@@ -11,7 +11,7 @@ last_name: Ramirez
 
 # Status emoji
 status:
-  icon: 🦾🤖
+  icon: 🤖
 
 # Is this the primary user of the site?
 superuser: true
@@ -30,8 +30,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:jorge.ramirezc@pucp.pe'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/ramirez66955
+  #- icon: brands/x
+  #  url: https://twitter.com/ramirez66955
   #- icon: brands/github
   #  url: https://github.com/gcushen
   - icon: brands/linkedin
@@ -42,7 +42,7 @@ profiles:
 education:
   - area: MSc in Control and Automation Engineering
     institution: Pontifical Catholic University of Peru
-    date_start: 2019-03-01
+    date_start: 2019-01-03
     date_end: 2020-12-31
     summary: |
       Thesis on the design of a neuro-fuzzy controller for automation of fault detection within pipelines using a mobile robot. Supervised by [Prof Francisco Cuellar](https://pe.linkedin.com/in/francisco-cuellar-a0000541). Presented paper at the IEEE ICCAR 2021 conference.
@@ -52,7 +52,7 @@ education:
   - area: Mechatronic Engineer
     institution: Pontifical Catholic University of Peru
     date_start: 2012-03-01
-    date_end: 2017-06-11
+    date_end: 2017-07-31
     summary: |
       Thesis on the Design of a docking platform and a miniROV for Unmanned Aquatic Surface Vehicles (USV). Supervised by [Prof Francisco Cuellar](https://pe.linkedin.com/in/francisco-cuellar-a0000541). 
     button:
