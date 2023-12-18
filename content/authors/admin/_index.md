@@ -63,24 +63,25 @@ work:
     company_name: Fabricum PUCP
     company_url: 'https://fabricum.pucp.edu.pe/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-12-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Implementation of robotic applications using 5 and 6 DoF robotic arms.
+      - Formulation of technological projects with funds from the Peruvian government.
+      - Coordination of research laboratory activities.
+      - Training for master's and undergraduate students in ROS.
+  - position: Lead Project Engineer and Field Engineering Supervisor
+    company_name: Tumi Robotics
+    company_url: 'https://tumirobotics.com/en/'
+    company_logo: ''
+    date_start: 2017-11-01
+    date_end: 2022-08-31
+    summary: |
+      Responsibilities include:
+      - Implementation and validation of Wheeled Robots for inspection of critical infrastructure in the mining sector.
+      - Management of multiple research projects for development of aquatic robots (USV, AUV, Underwater ROV).
+      - Supervision of field services using robotic solutions.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
